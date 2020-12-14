@@ -1,0 +1,22 @@
+body {
+  background-color: #e5e5e5;
+  font-family: "Poppins", sans-serif;
+}
+.search-bar-container {
+  height: 50vh;
+  display: flex;
+  align-items: center;
+}
+#search-bar-input {
+  height: 66px;
+  border: none;
+  outline: none !important;
+}
+#search-icon {
+  background-color: #fff !important;
+  border: none !important;
+}
+#planet-result {
+  background-color: #fff;
+  margin-top: -15px;
+}
